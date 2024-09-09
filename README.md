@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Srinath Thilakarathne</h1>
-<h3 align="center">A passionate Data Scientist from Sri Lanka</h3>
+<h3 align="center">A passionate DevOps Engineer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Azure Data Engineering**
+- 🌱 I’m currently preparing for **CKA**
 
-- 📝 I regularly write articles on [https://jennythedragon2000.github.io/obsidian-publish/](https://jennythedragon2000.github.io/obsidian-publish/)
+- 📝 I regularly write articles on [medium](https://medium.com/@srinaththilakarathne)
 
 - ⚡ Fun fact **I'm a Linux and FOSS fanboy. Neovim is my favourite text editor.**
 

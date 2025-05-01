@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="center">Hi 👋, I'm Srinath Thilakarathne</h1>
-<h3 align="center">A passionate DevOps Engineer from Sri Lanka</h3>
-
-- 🌱 I’m currently preparing for **CKA**
-
-- 📝 I regularly write articles on [medium](https://medium.com/@srinaththilakarathne)
-
 - ⚡ Fun fact **I'm a Linux and FOSS fanboy. Neovim is my favourite text editor.**
 
 <h3 align="left">Connect with me:</h3>
